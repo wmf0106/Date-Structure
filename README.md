@@ -1,4 +1,4 @@
 # Date-Structure
 review
 
-this codes id writing during review the date structure
+this codes were written during reviewing the date structure
